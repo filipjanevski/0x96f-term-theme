@@ -1,0 +1,23 @@
+name: "0x96f"
+foreground: "#fcfcfa"
+background: "#262427"
+selection: null
+cursor: "#dc8a78"
+cursorAccent: null
+colors:
+  - "#262427"
+  - "#ff5252"
+  - "#a4df00"
+  - "#ffca58"
+  - "#49cae4"
+  - "#a093e2"
+  - "#aee8f4"
+  - "#fcfcfa"
+  - "#545452"
+  - "#ff5252"
+  - "#a4df00"
+  - "#ffca58"
+  - "#49cae4"
+  - "#a093e2"
+  - "#aee8f4"
+  - "#fcfcfa"
