@@ -1,5 +1,9 @@
 # 0x96f Terminal Theme
 
+## Screenshot
+
+![Theme screenshot](screenshot.png)
+
 ## Kitty
 
 1. Download and move `kitty/0x96f.conf` to `~/.config/kitty`.
