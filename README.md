@@ -1,6 +1,6 @@
 # 0x96f Terminal Theme
 
-A simple dark and pleasant theme
+A simple and pleasant dark terminal theme
 
 ## Screenshot
 
