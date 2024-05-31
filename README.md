@@ -23,7 +23,8 @@ WARP_THEMES_DIR="$HOME/.warp/themes"
 WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 ```
 
-2. Move the `warp/0x96f.yaml` to your theme directory.
+2. Move the `warp/0x96f.yaml` to your theme directory and restart Warp.
+3. Select the theme in `Appearance -> Themes`.
 
 ## Terminal.app
 
