@@ -1,6 +1,6 @@
 # 0x96f Terminal Theme
 
-A simple dark and pleasant theme
+A simple and pleasant dark terminal theme
 
 ## Screenshot
 
@@ -23,7 +23,8 @@ WARP_THEMES_DIR="$HOME/.warp/themes"
 WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 ```
 
-2. Move the `warp/0x96f.yaml` to your theme directory.
+2. Move the `warp/0x96f.yaml` to your theme directory and restart Warp.
+3. Select the theme in `Appearance -> Themes`.
 
 ## Terminal.app
 
@@ -34,7 +35,7 @@ WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 
 ## [Tabby](https://github.com/Eugeny/tabby)
 
-1. Add the contents from `tabby/0x96f.yaml` to .terminal.customColorSchemes[] in `~/.config/tabby/config.yaml`.
+1. Add the contents from `tabby/0x96f.yaml` to `terminal.customColorSchemes` in `~/.config/tabby/config.yaml`.
 2. Open Tabby settings and click on 'Color Scheme' to change the current color scheme.
 3. In Tabby settings, click on 'Appearance' to set 'Terminal background' to 'From color scheme'.
 
