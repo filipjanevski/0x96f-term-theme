@@ -1,10 +1,12 @@
 # 0x96f Terminal Theme
 
+![Logo](logo.png)
+
 A simple and pleasant dark terminal theme
 
 ## Screenshot
 
-![Theme screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## [Kitty](https://sw.kovidgoyal.net/kitty/)
 
