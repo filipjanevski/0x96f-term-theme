@@ -21,7 +21,7 @@ A simple and pleasant dark terminal theme
 
 ```
 import = [
-    "~/.config/alacritty/themes/themes/0x96f.toml"
+    "~/.config/alacritty/themes/0x96f.toml"
 ]
 ```
 
