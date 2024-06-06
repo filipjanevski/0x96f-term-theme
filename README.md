@@ -14,6 +14,19 @@ A simple and pleasant dark terminal theme
 2. Open `~/.config/kitty/kitty.conf` and import the theme by adding `include ./0x96f.conf`.
 3. Restart kitty to apply the changes.
 
+## [Alacritty](https://alacritty.org/)
+
+1. Download and move `alacritty/0x96f.conf` to `~/.config/alacritty/themes`.
+2. Open your `alacritty.toml` and import the theme in with the following:
+
+```
+import = [
+    "~/.config/alacritty/themes/themes/0x96f.toml"
+]
+```
+
+3. Restart alacritty to apply the changes.
+
 ## [Warp Terminal](https://www.warp.dev/)
 
 1. Identify the correct theme directory for your operating system:
