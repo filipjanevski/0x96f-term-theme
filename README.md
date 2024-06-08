@@ -48,6 +48,15 @@ WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 3. Open the tab "Profiles", and click on the `(...)` on the lower left, select "Import".
 4. Navigate to the file you just downloaded.
 
+## [iTerm2](https://iterm2.com/)
+
+1. Download the theme file from the `iterm2` folder.
+2. Open Terminal's settings via `⌘ + ,`.
+3. Open the tab "Profiles" and then "Colors"
+4. Click "Color Presets" and the "Import"
+4. Navigate to the file you just downloaded.
+6. Click "Color Presets" and select 0x96f.
+
 ## [Tabby](https://github.com/Eugeny/tabby)
 
 1. Add the contents from `tabby/0x96f.yaml` to `terminal.customColorSchemes` in `~/.config/tabby/config.yaml`.
