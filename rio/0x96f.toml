@@ -1,0 +1,39 @@
+[colors]
+background           = '#262427'
+foreground           = '#fcfcfa'
+dim-foreground       = '#262427'
+light-foreground     = '#262427'
+
+selection-background = "#323032"
+selection-foreground = "#fcfcfa"
+
+cursor               = '#ffca58'
+tabs                 = '#323032'
+tabs-active          = '#262427'
+
+black                = '#262427'
+red                  = '#ff7272'
+green                = '#bcdf59'
+yellow               = '#ffca58'
+blue                 = '#49cae4'
+magenta              = '#a093e2'
+cyan                 = '#aee8f4'
+white                = '#fcfcfa'
+
+dim-black            = '#262427'
+dim-red              = '#ff7272'
+dim-green            = '#bcdf59'
+dim-yellow           = '#ffca58'
+dim-blue             = '#49cae4'
+dim-magenta          = '#a093e2'
+dim-cyan             = '#aee8f4'
+dim-white            = '#fcfcfa'
+
+light-black          = '#262427'
+light-red            = '#ff7272'
+light-green          = '#bcdf59'
+light-yellow         = '#ffca58'
+light-blue           = '#49cae4'
+light-magenta        = '#a093e2'
+light-cyan           = '#aee8f4'
+light-white          = '#fcfcfa'

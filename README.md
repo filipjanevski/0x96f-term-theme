@@ -54,7 +54,7 @@ WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 2. Open Terminal's settings via `⌘ + ,`.
 3. Open the tab "Profiles" and then "Colors"
 4. Click "Color Presets" and the "Import"
-4. Navigate to the file you just downloaded.
+5. Navigate to the file you just downloaded.
 6. Click "Color Presets" and select 0x96f.
 
 ## [Tabby](https://github.com/Eugeny/tabby)
@@ -81,3 +81,14 @@ WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 2. In Black Box terminal go to `Preferences --> Terminal`, scroll down to Theme and click on the link `Open themes folder`.
 3. Copy `blockbox/0x96f.json` to the Black Box themes folder and restart Black Box.
 4. Go again to `Preferences --> General`, scroll down to `Theme` and select `0x96f`.
+
+## [Rio](https://raphamorim.io/rio/)
+
+1. Download and move `rio/0x96f.conf` to `~/.config/rio/themes`.
+2. Open your `config.toml` and apply the theme in with the following:
+
+```
+theme = "0x96f"
+```
+
+3. Restart Rio to apply the changes.
