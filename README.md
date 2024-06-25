@@ -84,7 +84,7 @@ WARP_THEMES_DIR="${XDG_DATA_HOME:-$HOME/.local/share}/warp-terminal/themes"
 
 ## [Rio](https://raphamorim.io/rio/)
 
-1. Download and move `rio/0x96f.conf` to `~/.config/rio/themes`.
+1. Download and move `rio/0x96f.toml` to `~/.config/rio/themes`.
 2. Open your `config.toml` and apply the theme in with the following:
 
 ```
