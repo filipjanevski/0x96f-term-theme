@@ -27,6 +27,21 @@ import = [
 
 3. Restart alacritty to apply the changes.
 
+## [Wezterm](https://wezfurlong.org/wezterm/)
+
+1. Download and move `wezterm/0x96f.lua` to `~/.config/wezterm/colors`.
+2. Open your `wezterm.lua` and import the theme in with the following:
+
+```
+local wezterm = require 'wezterm'
+local theme = require 'colors.0x96f'
+local config = {}
+
+config.colors = theme
+
+return config
+```
+
 ## [Warp Terminal](https://www.warp.dev/)
 
 1. Identify the correct theme directory for your operating system:
