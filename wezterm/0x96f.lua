@@ -4,7 +4,7 @@ return {
     cursor_fg = '#fcfcfa',
     compose_cursor = '#fcfcfa',
     selection_fg = '#fcfcfa',
-    selection_bg = '#262427',
+    selection_bg = '#545452',
     scrollbar_thumb = '#383438',
 	ansi = {
         '#262427',
