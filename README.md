@@ -116,3 +116,9 @@ theme = "0x96f"
 ```
 #include "/path-to-theme/0x96f.Xresources"
 ```
+
+3. While most display managers will automatically load this configuration file on startup, it is possible to load the configuration manually by running:
+
+```
+xrdb ~/.Xresources
+```
