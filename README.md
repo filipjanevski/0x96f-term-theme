@@ -107,3 +107,12 @@ theme = "0x96f"
 ```
 
 3. Restart Rio to apply the changes.
+
+## xterm/rxvt
+
+1. Download the theme file from the `xterm-rxvt` folder.
+2. Add the following line in `~/.Xresources`:
+
+```
+#include "/path-to-theme/0x96f.Xresources"
+```
