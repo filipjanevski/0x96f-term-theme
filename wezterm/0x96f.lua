@@ -18,12 +18,12 @@ return {
     },
     brights = {
         '#545452',
-        '#ff7272',
-        '#bcdf59',
-        '#ffca58',
-        '#49cae4',
-        '#a093e2',
-        '#aee8f4',
+        '#ff8787',
+        '#c6e472',
+        '#ffd271',
+        '#64d2e8',
+        '#aea3e6',
+        '#baebf6',
         '#fcfcfa',
     },
     tab_bar = {
