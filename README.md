@@ -6,6 +6,12 @@ A simple and pleasant dark terminal theme
 
 ![Screenshot](screenshot.png)
 
+## [Ghostty](https://ghostty.org/)
+
+1. Download and move `ghostty/0x96f` to `~/.config/ghostty/themes`.
+2. Open `~/.config/ghostty/config` and set the theme by adding `theme = 0x96f`.
+3. Restart ghostty or reload the config to apply the changes.
+
 ## [Kitty](https://sw.kovidgoyal.net/kitty/)
 
 1. Download and move `kitty/0x96f.conf` to `~/.config/kitty`.
