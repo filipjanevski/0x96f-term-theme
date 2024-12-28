@@ -2,6 +2,9 @@
 
 A simple and pleasant dark terminal theme
 
+> [!NOTE]
+> This theme is officially included in [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes).
+
 ## Screenshot
 
 ![Screenshot](screenshot.png)
