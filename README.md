@@ -129,3 +129,13 @@ theme = "0x96f"
 ```
 xrdb ~/.Xresources
 ```
+
+## [MobaXterm](https://mobaxterm.mobatek.net/)
+
+1. Download the theme file from the `mobaxterm` folder.
+2. Open MobaXterm's settings by clicking `Settings --> Configuration` in the menu bar.
+3. Go to `Terminal --> Default color settings`.
+4. Click on the 📁 icon with caption `Import a color theme from a file`.
+5. Select the file you just downloaded.
+6. Color scheme `0x96f` will be selected automatically.
+7. (optional) Make sure each of your all sessions follow color scheme `Current Global color theme`.
