@@ -139,3 +139,45 @@ xrdb ~/.Xresources
 5. Select the file you just downloaded.
 6. Color scheme `0x96f` will be selected automatically.
 7. (optional) Make sure each of your all sessions follow color scheme `Current Global color theme`.
+
+## [Windows Terminal](https://github.com/microsoft/terminal)
+
+1. Download the theme file from the `windows-terminal` folder.
+2. Open the Terminal's settings by pressing `Ctrl + ,`.
+3. In the left pane of the settings window, click on `Open JSON file` at the bottom, which will open `settings.json`.
+4. Locate the `schemes` section. It should look something like this:
+```json
+"schemes": [],
+```
+5. Paste the color scheme from the downloaded file into the `settings.json`. It should look like this:
+```json
+ "schemes": [
+			{
+				"name": "0x96f",
+				"background": "#262427",
+				"black": "#262427",
+				"blue": "#49CAE4",
+				"brightBlack": "#545452",
+				"brightBlue": "#64D2E8",
+				"brightCyan": "#BAEBF6",
+				"brightGreen": "#C6E472",
+				"brightPurple": "#AEA3E6",
+				"brightRed": "#FF8787",
+				"brightWhite": "#FCFCFA",
+				"brightYellow": "#FFD271",
+				"cursorColor": "#FCFCFA",
+				"cyan": "#AEE8F4",
+				"foreground": "#FCFCFA",
+				"green": "#BCDF59",
+				"purple": "#A093E2",
+				"red": "#FF7272",
+				"selectionBackground": "#FCFCFA",
+				"white": "#FCFCFA",
+				"yellow": "#FFCA58"
+			}
+        ]
+```
+6. Save the `settings.json`. The color theme will now be added to Windows Terminal.
+7. (optional) In the left pane of the settings window, click on `Color schemes`.
+8. (optional) Select `0x96f` and click on `Set as default`.
+9. (optional) Make sure the color scheme for the profiles you use is set to `0x96f`.
